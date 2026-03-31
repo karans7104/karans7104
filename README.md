@@ -1,15 +1,11 @@
 <p align="center"><img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/></p>
 
 ## Karan Sonawane 
-### <i>Code. Scale. </i>
+### <i>Think. Code. Scale. </i>
 
 - 🧠 Software Developer | Full Stack Engineer | AI Builder  
 - 🎓 IIIT Kota | B.Tech (2023–2027)  
-- ⚡ Turning ideas into high-performance systems  
-- 💬 Let’s talk about Backend Systems, APIs, System Design & AI  
 - 📫 Reach me: karans7104@gmail.com  
-
----
 
 <details>
 <summary>
@@ -87,4 +83,3 @@ Whether it's handling concurrent users, reducing latency, or designing scalable 
    <a href="mailto:karans7104@gmail.com"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 </p>
 
-<p align="center"><img src="https://imgur.com/rilHVxA.png"/></p>
