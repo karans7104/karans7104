@@ -1,98 +1,90 @@
-<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></p>
+<p align="center"><img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/></p>
 
-## Karan Sonawane (He/Him) ⚡
-- 🔭 I’m a Software Developer & AI Enthusiast from IIIT Kota  
-- 👯 I build scalable full-stack applications and AI-powered platforms  
-- 💬 Let's talk about Full Stack Development, System Design, APIs, and Performance Optimization  
-- 📫 **How to reach me**: [LinkedIn](https://linkedin.com) or Email (karans7104@gmail.com)  
-- ⚡ **Fun fact**: I’ve solved 500+ DSA problems and love optimizing systems for speed 🚀  
+## Karan Sonawane 
+### <i>Code. Scale. </i>
+
+- 🧠 Software Developer | Full Stack Engineer | AI Builder  
+- 🎓 IIIT Kota | B.Tech (2023–2027)  
+- ⚡ Turning ideas into high-performance systems  
+- 💬 Let’s talk about Backend Systems, APIs, System Design & AI  
+- 📫 Reach me: karans7104@gmail.com  
+
+---
 
 <details>
 <summary>
-  <a href="#"><img src="https://img.shields.io/badge/-Explore%20More-1f6feb?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/-Unlock%20Full%20Profile-black?style=for-the-badge&logo=github" />
 </summary>
 
 
-### Little More About Me  
+### ⚡ Developer DNA  
 
-I’m a developer who enjoys building high-performance, scalable applications and integrating AI into real-world use cases. I focus on writing clean, efficient code and improving system performance.  
+I build systems that are **fast, scalable, and production-ready**.  
+From crafting optimized APIs to integrating AI into real-world applications — I focus on **performance, impact, and clean architecture**.  
 
-I’ve worked on multiple full-stack projects, APIs, and real-time systems, and I enjoy solving challenging problems and building impactful products.  [oai_citation:0‡KARAN_SDE.pdf](sediment://file_00000000e3e8720b946cce5ff68ae95d)  
-
----
-
-### Featured Projects  
-
-💸 **Welth – AI Finance Platform**  
-- AI-powered expense tracking and financial insights  
-- Gemini AI integration (85%+ prediction accuracy)  
-- Real-time analytics with secure authentication  
-
-📊 **ProjectFlow – Project Management System**  
-- Scalable task management for 200+ operations  
-- Role-based access control + real-time collaboration  
-- Optimized APIs (&lt;150ms response time)  
-
-🌐 **Portfolio Website – Developer Showcase**  
-- Fully responsive across all devices  
-- Sub-1.5s load time with Next.js optimization  
-- SEO optimized for better visibility  
+Whether it's handling concurrent users, reducing latency, or designing scalable systems — I enjoy pushing systems to their limits.  [oai_citation:0‡KARAN_SDE.pdf](sediment://file_00000000e3e8720b946cce5ff68ae95d)  
 
 ---
 
-### What I’m Currently Working On  
+### 🚀 Projects That Define Me  
 
-- ⚡ Performance optimization & scalable backend systems  
-- 🤖 AI-powered application features  
-- 🌐 System design & microservices architecture  
+💸 **Welth — AI Finance Engine**  
+- Smart expense tracking with AI-driven insights  
+- Gemini-powered predictions (85%+ accuracy)  
 
----
+📊 **ProjectFlow — Command Center for Teams**  
+- Scalable task system (200+ operations)  
+- Real-time collaboration + RBAC  
 
-### Programming Languages :scroll:
+### Current Grind  
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
-
----
-
-### Database Systems :bar_chart:
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
+- ⚡ Building scalable backend architectures  
+- 🤖 Integrating AI into real-world systems  
+- 🧩 Mastering system design & microservices  
 
 ---
 
-### Tools and Frameworks :hammer:
+### Tech Arsenal  
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+#### Languages  
+<img height="32" src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
+
+#### Databases  
+<img height="32" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+
+#### Frameworks & Tools  
+<img height="32" src="https://skillicons.dev/icons?i=react,next,nodejs,express,docker,aws,git" />
 
 ---
 
-### Achievements :trophy:
+### 🏆 Achievements  
 
-- 🧠 500+ DSA problems solved (LeetCode 1700+, Codeforces 1100+)  
-- 🏆 Team Lead – Smart India Hackathon  
-- ☁️ Oracle Cloud Infrastructure AI Foundations Certified  
-- 🐳 Completed Docker & Kubernetes Masterclass  
+- 🧠 500+ DSA problems crushed  
+- 📈 LeetCode 1700+ | Codeforces 1100+  
+- 🏅 Team Lead — Smart India Hackathon  
+- ☁️ Oracle AI Foundations Certified  
+- 🐳 Docker & Kubernetes Masterclass  
+
+---
+
+### 🔥 Philosophy  
+
+> “First make it work. Then make it fast. Then make it unstoppable.”
 
 <br></details>
 
-<!-- footer --!>
-<p align="center"><a href="#"><img src="https://img.shields.io/badge/Profile%20Views-Blue?style=flat" alt="HitCount"></a></p>
+---
+
 <p align="center">
-    <a href="#"><img width="27px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /></a>
-    &nbsp;&nbsp;     
-    <a href="#"><img width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a> 
-    &nbsp;&nbsp;
-   <a href="mailto:karans7104@gmail.com"><img width="27px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=Build+Fast;Scale+Hard;Break+Limits" />
 </p>
-<img src="https://imgur.com/rilHVxA.png"/>
+
+<p align="center">
+    <a href="#"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /></a>
+    &nbsp;&nbsp;     
+    <a href="#"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a> 
+    &nbsp;&nbsp;
+   <a href="mailto:karans7104@gmail.com"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
+</p>
+
+<p align="center"><img src="https://imgur.com/rilHVxA.png"/></p>
