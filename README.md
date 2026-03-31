@@ -1,4 +1,4 @@
-<p align="center"><img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lsNDJibnR4bmNyN2F3aDlrZzQwdjl0Y3JoODNqa3NhOWZjcjV1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif)"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmY1Ymc2OXgyaGcwNzI5dHY3anltMDR1Y2QwZnVmOW02MTNmam5obSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"/></p>
 
 ## Karan Sonawane 
 ### <i>Think. Code. Scale. </i>
