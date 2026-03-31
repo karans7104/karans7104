@@ -24,7 +24,7 @@ Whether it's handling concurrent users, reducing latency, or designing scalable 
 
 ---
 
-### 🚀 Projects That Define Me  
+### Projects That Define Me  
 
 💸 **Welth — AI Finance Engine**  
 - Smart expense tracking with AI-driven insights  
@@ -55,7 +55,7 @@ Whether it's handling concurrent users, reducing latency, or designing scalable 
 
 ---
 
-### 🏆 Achievements  
+### Achievements  
 
 - 🧠 500+ DSA problems crushed  
 - 📈 LeetCode 1700+ | Codeforces 1100+  
