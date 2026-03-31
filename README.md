@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=650&lines=HELLO;I'm+KARAN+SONAWANE;Full+Stack+Developer" />
 </p>
 
-## Hello, I'm Karan Sonawane 
 ### <i>Think. Code. Scale. </i>
 
 Software Developer | Full Stack Engineer | AI Builder  
@@ -86,6 +85,12 @@ Whether it's handling concurrent users, reducing latency, or designing scalable 
     &nbsp;&nbsp;
    <a href="mailto:karans7104@gmail.com"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 </p>
+<!-- Banner -->
 <p align="center">
-  <h1 style="color:#39FF14;">KARAN SONAWANE</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:39FF14&height=180&section=header&text=KARAN%20SONAWANE&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<!-- Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&lines=Build+Fast;Scale+Hard;Break+Limits" />
 </p>
