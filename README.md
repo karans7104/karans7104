@@ -72,7 +72,7 @@ Whether it's handling concurrent users, reducing latency, or designing scalable 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=650&lines=⚡+KARAN+SONAWANE+⚡;Full+Stack+Developer;AI+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=650&lines=KARAN+SONAWANE;Full+Stack+Developer" />
 </p>
 
 <p align="center">
