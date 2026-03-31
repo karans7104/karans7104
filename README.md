@@ -74,22 +74,17 @@ Whether it's handling concurrent users, reducing latency, or designing scalable 
 ---
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/KARAN%20SONAWANE-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
-</p>
+
 
 <p align="center">
-    <a href="#"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /></a>
     &nbsp;&nbsp;     
     <a href="#"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a> 
     &nbsp;&nbsp;
    <a href="mailto:karans7104@gmail.com"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 </p>
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:39FF14&height=180&section=header&text=KARAN%20SONAWANE&fontSize=40&fontColor=ffffff"/>
+  <img src="https://img.shields.io/badge/KARAN%20SONAWANE-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
 </p>
-
 <!-- Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&lines=Build+Fast;Scale+Hard;Break+Limits" />
