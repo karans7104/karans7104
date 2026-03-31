@@ -1,9 +1,9 @@
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lsNDJibnR4bmNyN2F3aDlrZzQwdjl0Y3JoODNqa3NhOWZjcjV1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="180px"/></p>
 
-## Karan Sonawane 
+##Hello, I'm Karan Sonawane 
 ### <i>Think. Code. Scale. </i>
 
-- 🧠 Software Developer | Full Stack Engineer | AI Builder  
+Software Developer | Full Stack Engineer | AI Builder  
 - 🎓 IIIT Kota | B.Tech (2023–2027)  
 - 📫 Reach me: karans7104@gmail.com  
 
