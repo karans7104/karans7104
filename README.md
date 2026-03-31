@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lsNDJibnR4bmNyN2F3aDlrZzQwdjl0Y3JoODNqa3NhOWZjcjV1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="180px"/></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:39FF14&height=200&section=header&text=KARAN%20SONAWANE&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://img.shields.io/badge/KARAN%20SONAWANE-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
 </p>
 
 ## Hello, I'm Karan Sonawane 
