@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lsNDJibnR4bmNyN2F3aDlrZzQwdjl0Y3JoODNqa3NhOWZjcjV1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="180px"/></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=650&lines=KARAN+SONAWANE;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=650&lines=HELLO;I'm+KARAN+SONAWANE;Full+Stack+Developer" />
 </p>
 
 ## Hello, I'm Karan Sonawane 
@@ -87,11 +87,5 @@ Whether it's handling concurrent users, reducing latency, or designing scalable 
    <a href="mailto:karans7104@gmail.com"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 </p>
 <p align="center">
-  <svg width="600" height="100">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      fill="#39FF14" font-size="40" font-family="Arial" font-weight="bold"
-      style="text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 40px #39FF14;">
-      KARAN SONAWANE
-    </text>
-  </svg>
+  <h1 style="color:#39FF14;">KARAN SONAWANE</h1>
 </p>
